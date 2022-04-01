@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/bleumuses/studbud/issues"
   },
-  "homepage": "https://github.com/bleumuses/studbud#readme"
+  "homepage": "https://github.com/bleumuses/studbud#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
 }
